@@ -56,15 +56,8 @@ python faceswap.py
 Now play `data/output/output.mp4` to see results <br>
 Make necessary changes in faceswap.py for different input videos.
 
-<br>
+<be>
 
-## :file_folder: Project Structure
-
-1. `SuperGAN` contains all the project files
-2. `SuperGAN/data` contains input output videos and pretrained weights
-3. `SuperGAN/faceswap.py` main inference file
-
-<br> 
 > This Project was part of graduate level Deep Learning course at New York University
 
 <!-- # To-Do
