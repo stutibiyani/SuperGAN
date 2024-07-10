@@ -26,8 +26,8 @@
 1. Clone repo
 
     ```bash
-    git clone https://github.com/95anantsingh/NYU-SuperGAN.git
-    cd NYU-SuperGAN
+    git clone https://github.com/stutibiyani/SuperGAN
+    cd SuperGAN
     ```
 
 1. Create conda environment
@@ -64,26 +64,6 @@ Make necessary changes in faceswap.py for different input videos.
 2. `SuperGAN/data` contains input output videos and pretrained weights
 3. `SuperGAN/faceswap.py` main inference file
 
-<br>
-
-## :blue_book: Documentation
-
-Project report can be found at [docs/SuperGAN_Report.pdf](https://github.com/95anantsingh/NYU-SuperGAN/blob/integrated/docs/SuperGAN_Report.pdf)
-<br>
-> Ideal setup is with NVIDIA Quadro RTX 8000 (48 GB GDDR6) on Linux
-
-
-<br>
-
-## :scroll: License
-
-SuperGAN is released under Apache License Version 2.0.
-
-<br>
-
-## :e-mail: Contact
-
-If you have any question, please email `sb7580@nyu.edu`
 <br> 
 > This Project was part of graduate level Deep Learning course at New York University
 
